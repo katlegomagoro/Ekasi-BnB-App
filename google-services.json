@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "504977926982",
+    "project_id": "ekasibnbhouse",
+    "storage_bucket": "ekasibnbhouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504977926982:android:6f64e2cdf78b65a3551347",
+        "android_client_info": {
+          "package_name": "com.EkasiSkoolProject.EkasiSkool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATqxvdxzmDAZ9l4R2vt_fRneIfbkoQgjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504977926982:android:37df0cc81b473ded551347",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATqxvdxzmDAZ9l4R2vt_fRneIfbkoQgjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504977926982:android:1b94477e65b027ef551347",
+        "android_client_info": {
+          "package_name": "com.example.scrollviewverticalandhorizontal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATqxvdxzmDAZ9l4R2vt_fRneIfbkoQgjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504977926982:android:35f0f6c0f9be9850551347",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATqxvdxzmDAZ9l4R2vt_fRneIfbkoQgjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504977926982-5t9m7jitls4eanhjm05g6ahktik559ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
